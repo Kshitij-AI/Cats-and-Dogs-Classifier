@@ -1,0 +1,10 @@
+#Install all libraries below
+#Using pip
+
+numpy		#pip install numpy
+matplotlib	#pip install matplotlib
+cv2		#pip install opencv-python
+tensorflow	#pip install tensorflow
+keras		#pip install keras
+
+
