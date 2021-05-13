@@ -16,7 +16,7 @@ keras	      	#pip install keras
 
 
 
-**If not using pip, then please refer their Documentation.**
+**If not using pip, then please refer their respective Documentations.**
 
 
 
